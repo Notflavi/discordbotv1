@@ -1,0 +1,14 @@
+{
+  "name": "infinitymcbot",
+  "version": "1.0.0",
+  "description": "InfinityMC Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "NotFlavi & Others",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
