@@ -1,0 +1,2 @@
+# discordbotv1
+NotFlavisbot
